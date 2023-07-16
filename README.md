@@ -1,2 +1,2 @@
 # AmazonClone
-This website is a clone of Amazon's web site front page
+This website is a clone of Amazon's website home page.
